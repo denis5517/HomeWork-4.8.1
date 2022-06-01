@@ -1,0 +1,8 @@
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\bin\Debug\HW 4.8.2.exe.config
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\bin\Debug\HW 4.8.2.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\bin\Debug\HW 4.8.2.pdb
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\obj\Debug\HW 4.8.2.csproj.AssemblyReference.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\obj\Debug\HW 4.8.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\obj\Debug\HW 4.8.2.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\obj\Debug\HW 4.8.2.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\проекты\4. Массивы\HW 4.8.2\HW 4.8.2\obj\Debug\HW 4.8.2.pdb
